@@ -1,0 +1,17 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.5;
+  max-width: 40em;
+  margin: 2em auto;
+  padding: 0 1em;
+  color: #222;
+  background: #fff;
+}
+
+a { color: #0645ad; }
+
+footer {
+  margin-top: 3em;
+  font-size: 0.9em;
+  color: #666;
+}
